@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">KT_05_SplashScreen</string>
     <string name="splashScreenText">Ejercicio evaluable Splash Screen</string>
+    <string name="miNombre">Cristina Sanchez</string>
 </resources>
